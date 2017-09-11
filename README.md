@@ -6,10 +6,10 @@ Copy and paste your code from these exercises into this file.
 
 public class Test
 {
-public static void main (String[] args)
-{
-System.out.println (“An Emergency Broadcast”);
-}
+ public static void main (String[] args)
+ {
+  System.out.println (“An Emergency Broadcast”);
+ }
 }
 
 * 1.3
